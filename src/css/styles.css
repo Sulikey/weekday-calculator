@@ -1,3 +1,12 @@
 body {
-  background-color: rgb(113, 170, 48);
+  background-color: rgb(57, 90, 168);
+}
+
+#day-img {
+  width:600px;
+  height:600px;
+}
+
+.img-box {
+  margin-top: 2vh;
 }
